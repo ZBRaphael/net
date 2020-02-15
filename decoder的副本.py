@@ -5,7 +5,7 @@ count = 0
 def unzip(path):
     for root,dirs,files in os.walk(path):
 
-        #解压
+        #解压文件
 
         for f in files:
             print(os.path.join(root,f))
