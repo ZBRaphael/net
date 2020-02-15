@@ -16,7 +16,7 @@ def unzip(path):
                 open(f_name,'wb+').write(g_file.read())
                 g_file.close()
 
-#复制 and 执行短发短发
+#复制 and 执行短
 
 def exe(file):
     for root,dirs,files in os.walk(file):
@@ -31,7 +31,7 @@ def exe(file):
             os.chdir(rootdir)
 
 
-# 整理
+# 整理文件
 def rmpsb(filename,savename):
     with open(filename,'r') as f:
         count = 0
