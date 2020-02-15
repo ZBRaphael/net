@@ -16,7 +16,7 @@ def unzip(path):
                 open(f_name,'wb+').write(g_file.read())
                 g_file.close()
 
-#复制 and 执行
+#复制 and 执行短发短发
 
 def exe(file):
     for root,dirs,files in os.walk(file):
