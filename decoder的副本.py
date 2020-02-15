@@ -31,7 +31,7 @@ def exe(file):
             os.chdir(rootdir)
 
 
-# 整理
+# 整理asfasdfasdfasdf
 def rmpsb(filename,savename):
     with open(filename,'r') as f:
         count = 0
