@@ -1,0 +1,7 @@
+{
+    "serverIp" : "0.0.0.0",
+    "serverSendPort" : 5002,
+    "serverRecvPort" : 5001,
+    "serverDir" : "/home/wen/socket/server",
+    "serverTmpDir" : "/home/wen/socket/server_tmp"
+}

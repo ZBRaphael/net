@@ -1,0 +1,7 @@
+{
+    "serverIp" : "127.0.0.1",
+    "clientSendPort" : 5001,
+    "clientRecvPort" : 5002,
+    "rootDir" : "/home/wen/fuzz_test/",
+    "server_dir" : "server"
+}
